@@ -1,3 +1,4 @@
 # scroller
 **简单的scroller**  
- `js和jquery 应该可以用`
+ ·`原声js`  
+ ·`基于jquery`
